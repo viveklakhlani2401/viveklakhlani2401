@@ -129,10 +129,7 @@ Furniture e-commerce platform with separate customer, seller and admin experienc
 
 ---
 
-## Education & Certifications
-
-- **MSc in Information Technology** — J. P. Dawer Institute, VNSGU (2023–Present) · SGPA 8.12
-- **BSc in Information Technology** — J. P. Dawer Institute, VNSGU (2020–2023) · CGPA 8.7
+## Certifications
 - AWS Academy — Cloud Foundations
 - HackerRank — SQL (Basic)
 - Google AI Essentials — Generative AI Tools
