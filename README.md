@@ -1,53 +1,158 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&reversal=true&text=Vivek%20Lakhlani&fontSize=80&desc=Full-Stack%20Software%20Developer&descAlign=70&descAlignY=65&animation=twinkling" align="center" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&reversal=true&text=Vivek%20lakhlani&fontSize=80&desc=Full-Stack%20developer&descAlign=70&descAlignY=65&animation=twinkling" align="center" width="100%" />
-
-
-<!--
-**viveklakhlani2401/viveklakhlani2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<h1 align="center">Hi 👋, I'm Vivek Lakhlani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek2425&label=Profile%20views&color=0e75b6&style=flat" alt="vivek2425" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek2425" alt="vivek2425" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/viveklakhlani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/viveklakhlani" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.viveklakhlani.me/"><img src="https://img.shields.io/badge/Portfolio-viveklakhlani.me-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vivek-lakhlani-844a9b241"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:viveklakhlani123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=viveklakhlani2401&style=for-the-badge&color=0A0A0A" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Vivek2425"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Vivek2425" /></a></p><br><br>
+## About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek2425&show_icons=true&locale=en&layout=compact" alt="vivek2425" /></p>
+Full-stack software developer based in **Hyderabad, India**, with 2+ years of experience building scalable web applications end to end — React interfaces, .NET Core and Node APIs, and SAP Business One integrations.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek2425&show_icons=true&locale=en" alt="vivek2425" /></p>
+- 🛠️ Currently building scalable product features with **modern JavaScript** and backend technologies at **Thoughtspark**
+- 🏢 Previously shipped client-facing **SAP B1 integrated** systems with **React (DevExtreme)** and **C# .NET** at a SAP Partner
+- ☁️ Hands-on with real deployments — **AWS, Vercel, Render, C-Panel** and on-site LAN setups for enterprise clients
+- 🌱 Learning more about scalable backend architecture and cloud infrastructure
+- 💬 Ask me about **React, DevExtreme, .NET Core, Node.js, Django** or **SAP B1 integrations**
+- 📫 Reach me at **viveklakhlani123@gmail.com** — open to full-time roles and freelance projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek2425&" alt="vivek2425" /></p>
+---
 
+## Tech Stack
 
+**Languages**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=amazondynamodb&logoColor=white)
 
+**Frontend**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![DevExtreme](https://img.shields.io/badge/DevExtreme-FF7200?style=flat-square&logo=devexpress&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
+**Backend**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/Java%20EE-007396?style=flat-square&logo=jakartaee&logoColor=white)
 
+**Databases**
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SAP](https://img.shields.io/badge/SAP%20B1-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 
+**Tools & Platforms**
 
--->
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+
+---
+
+## Experience
+
+| Role | Company | Period |
+| --- | --- | --- |
+| Software Engineer — Intern | Thoughtspark, Hyderabad | Jan 2025 – Present |
+| Jr. Software Engineer | Quantum IT Solution (SAP Partner), Surat | Jun 2023 – Dec 2024 |
+| Software Engineer — Intern | Quantum IT Solution (SAP Partner), Surat | Sep 2022 – May 2023 |
+
+---
+
+## Featured Work
+
+**Inventory System — SAP B1**
+QR-based inventory tracking integrated with SAP Business One for accurate, transparent stock operations.
+`React (DevExtreme)` · `C# .NET` · `SAP B1` · `MySQL`
+
+**Vendor & Customer Management — SAP B1**
+Vendor and customer registration and tracking, wired into SAP Business Partner.
+`React (DevExtreme)` · `C# .NET` · `SAP B1` · `MySQL`
+
+**Visitor Management System**
+Real-time visitor registration and approval flows for self-service and receptionist check-in/check-out.
+`React` · `Django` · `MySQL` · `AWS`
+
+**StockPulse**
+Stock market prediction dashboard built on subscription market-data APIs.
+`React` · `Flask` · `Node.js`
+
+**TrackSquare**
+Employee time-tracking CRM for monitoring hours across projects and supporting better planning.
+`PHP` · `MySQL` · `Bootstrap` · `AWS`
+
+**FurniFlex**
+Furniture e-commerce platform with separate customer, seller and admin experiences.
+`Java EE` · `JSF` · `MySQL`
+
+> More detail and live links on my [portfolio](https://www.viveklakhlani.me/).
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=viveklakhlani2401&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveklakhlani2401&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viveklakhlani2401&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=viveklakhlani2401&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+</p>
+
+---
+
+## Education & Certifications
+
+- **MSc in Information Technology** — J. P. Dawer Institute, VNSGU (2023–Present) · SGPA 8.12
+- **BSc in Information Technology** — J. P. Dawer Institute, VNSGU (2020–2023) · CGPA 8.7
+- AWS Academy — Cloud Foundations
+- HackerRank — SQL (Basic)
+- Google AI Essentials — Generative AI Tools
+- Clash of the Sorting Shifus — BodhiTree E-Learning Academy, IIT Bombay
+- Spoken Tutorial Project, IIT Bombay — C, C++, PHP, MySQL, Arduino, HTML, Linux
+
+---
+
+## Leadership
+
+- Led the **AI-IoT Club**, organizing monthly tech activities
+- Strengths: teamwork, time management, problem solving, fast learner
+
+---
+
+<p align="center">
+  <b>Let's build something.</b><br/>
+  <a href="https://www.viveklakhlani.me/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/vivek-lakhlani-844a9b241">LinkedIn</a> ·
+  <a href="mailto:viveklakhlani123@gmail.com">Email</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" />
